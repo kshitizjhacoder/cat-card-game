@@ -1,0 +1,15 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Root Component Styles */
+#root {
+
+    height: 100vh;
+}
+
+/* Additional Component Styles */
+/* Add styles for other components as needed */
